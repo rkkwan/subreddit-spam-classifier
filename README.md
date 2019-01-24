@@ -5,12 +5,12 @@ _Author: Ritchie Kwan_
 
 ## Table of Contents
 
-0. [Problem Statement, Assumptions, Executive Summary](01-Gathering-Data.ipynb#Problem-Statement)
-1. [Data Collection](01-Gathering-Data.ipynb#Data-Collection)
-1. [Data Cleaning & EDA](02-Data-Cleaning-and-EDA.ipynb#Data-Cleaning-and-EDA)
-1. [Benchmark Model](03-Benchmark-Model.ipynb#Benchmark-Model)
-1. [Model Tuning](04-Model-Tuning.ipynb#Model-Tuning)
-1. [Evaluation and Conceptual Understanding](05-Evaluation-and-Conceptual-Understanding.ipynb#Evaluation-and-Conceptual-Understanding)
+0. [Problem Statement, Assumptions, Executive Summary](01-Gathering-Data.ipynb)
+1. [Data Collection](01-Gathering-Data.ipynb)
+2. [Data Cleaning & EDA](02-Data-Cleaning-and-EDA.ipynb)
+3. [Benchmark Model](03-Benchmark-Model.ipynb)
+4. [Model Tuning](04-Model-Tuning.ipynb)
+5. [Evaluation and Conceptual Understanding](05-Evaluation-and-Conceptual-Understanding.ipynb)
 
 ## Presentation
 [Web APIs & Classification](https://docs.google.com/presentation/d/1B9ZIjbuSkLH4oXGXfjwnv_1GK3AoNaqXi2Shfxvjjqw/edit?usp=sharing)
