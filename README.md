@@ -1,5 +1,5 @@
-# Subreddit Spam Classifier
-#### Web APIs & Classification
+# Subreddit Classification
+#### Using classification algorithms as a Subreddit spam detector
 _Author: Ritchie Kwan_
 
 ---
@@ -14,7 +14,7 @@ _Author: Ritchie Kwan_
 5. [Evaluation and Conceptual Understanding](code/05-Evaluation-and-Conceptual-Understanding.ipynb)
 
 ## Presentation
-[Web APIs & Classification](https://docs.google.com/presentation/d/1B9ZIjbuSkLH4oXGXfjwnv_1GK3AoNaqXi2Shfxvjjqw/edit?usp=sharing)
+[Subreddit Classification for Spam Detection](https://docs.google.com/presentation/d/1B9ZIjbuSkLH4oXGXfjwnv_1GK3AoNaqXi2Shfxvjjqw/edit?usp=sharing)
 
 ## Problem Statement
 
